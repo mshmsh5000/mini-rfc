@@ -9,7 +9,6 @@
 
 ## 1. Problem Statement
 
-<!--
 3–5 sentences describing the user and engineering impact.
 
 Cover:
@@ -17,7 +16,6 @@ Cover:
 - Who is affected (end users, feature teams, oncall, SRE, etc.)?
 - Rough scale (DAFU, requests/day, build minutes/week) if it shapes the design.
 - Business impact
--->
 
 ---
 
@@ -25,9 +23,7 @@ Cover:
 
 ### Goals
 
-<!--
-What success looks like. Make these as concrete as possible.
--->
+_What success looks like. Make these as concrete as possible._
 
 - <!-- e.g., Reduce median iOS build time from 60 minutes to 30 minutes. -->
 - <!-- e.g., Standardize timeout/retry policies across all HTTP clients. -->
